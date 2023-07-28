@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "bradlc.vscode-tailwindcss",
+        "burkeholland.simple-react-snippets",
+        "ricardo-emerson.create-react-tsx-component",
+        "runningcoder.react-snippets",
+        "msjsdiag.vscode-react-native",
+        "jeremyrajan.react-component",
+        "zhang-renyang.vscode-react",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "dmeenhuis.es7-react-js-snippets-with-semicolons",
+        "rodrigovallades.es7-react-js-snippets",
+        "skyran.js-jsx-snippets",
+        "gogocrow.jsx-beautify",
+        "willstakayama.vscode-nextjs-snippets",
+        "blanu.vscode-styled-jsx"
+    ]
+}
